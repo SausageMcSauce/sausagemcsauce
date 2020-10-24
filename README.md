@@ -1,3 +1,6 @@
 I'm just a person.
 
-I might make this better soon.
+[![Stats](https://github-readme-stats.vercel.app/api?username=SausageMcSauce&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SausageMcSauce)](https://github.com/anuraghazra/github-readme-stats)
+
+
+(Credit for @ljy-002 for the idea of putting my stats here)
